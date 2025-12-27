@@ -1,0 +1,7 @@
+{
+  "name": " AI Mentor Roadmap & Full Front-End",
+  "description": "A comprehensive interactive learning path for aspiring Front-End and AI Engineers in 2026, featuring an integrated AI mentor chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
